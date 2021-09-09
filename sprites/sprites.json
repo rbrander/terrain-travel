@@ -1,0 +1,35 @@
+{
+  "dirt": {
+    "floor": [
+      "dirt1.png",
+      "dirt2.png",
+      "dirt3.png"
+    ],
+    "wall": {
+      "normal": ["dirt-wall1.png", "dirt-wall2.png"],
+      "large": ["dirt-wall-large.png"]
+    }
+  },
+  "grass": {
+    "floor": [
+      "grass1.png",
+      "grass2.png",
+      "grass3.png"
+    ],
+    "wall": {
+      "normal": ["shrubs1.png", "shrubs2.png"],
+      "large": ["shrubs-large.png"]
+    }
+  },
+  "stone": {
+    "floor": [
+      "stone1.png",
+      "stone2.png",
+      "stone3.png"
+    ],
+    "wall": {
+      "normal": ["stone-wall1.png", "stone-wall2.png"],
+      "large": ["stone-wall-large.png"]
+    }
+  }
+}
